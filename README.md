@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b56a44f8-1e3d-4082-bb04-e5054d612a7e
+
 # My Bottom Nav Bar ✨
 
 A Flutter UI demo that showcases a custom liquid-glass bottom navigation bar with animated tab states, interactive glow feedback, elastic glass motion, and a floating add button.
