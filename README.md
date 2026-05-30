@@ -1,8 +1,9 @@
 
 
-<img width="350" alt="demo" src="https://github.com/user-attachments/assets/fddf2c2e-d105-43c7-abc2-da1b3f980d64" />
+<img width="400"  alt="ScreenRecording2026-05-30at8 51 07PM-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/10dcb3bc-6797-4e16-a50c-b8b5c50b1649" />
 
-# My Bottom Nav Bar ✨
+
+# Modern Bottom Nav Bar ✨
 
 A Flutter UI demo that showcases a custom liquid-glass bottom navigation bar with animated tab states, interactive glow feedback, elastic glass motion, and a floating add button.
 
