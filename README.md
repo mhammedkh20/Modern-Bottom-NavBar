@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/b56a44f8-1e3d-4082-bb04-e5054d612a7e
+<img width="800" height="1518" alt="ScreenRecording2026-05-30at8 51 07PM-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fddf2c2e-d105-43c7-abc2-da1b3f980d64" />
 
 # My Bottom Nav Bar ✨
 
